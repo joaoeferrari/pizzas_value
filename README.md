@@ -35,3 +35,5 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+---
+**Reference**: https://www.youtube.com/watch?v=bGwdwF1vlvQ
