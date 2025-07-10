@@ -24,7 +24,7 @@ price = a * diameter + b
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/joaoeferrari/pizzas_value.git
 cd your-repository
 ```
 2. Install dependencies:
