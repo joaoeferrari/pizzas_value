@@ -9,6 +9,10 @@ This is an simple interactive **Streamlit** web app that uses **Linear Regressio
 - Clear explanation of how the model works
 
 ---
+## Demo
+<img width="1842" height="820" alt="image" src="https://github.com/user-attachments/assets/17440778-f202-4e11-9d0f-9e56617207ff" />
+
+---
 
 ## 📊 About the Model
 
