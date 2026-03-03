@@ -2,7 +2,7 @@
 
 This is an simple interactive **Streamlit** web app that uses **Linear Regression** to predict the price of a pizza based on its diameter (in centimeters).
 
-## ⚙ Features
+## Features
 
 - Predict pizza price based on user-input diameter
 - Clean and intuitive **Streamlit** interface
