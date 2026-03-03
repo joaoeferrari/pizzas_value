@@ -24,7 +24,7 @@ The model is a **Simple Linear Regression**, trained using a dataset (`pizzas.cs
 The learned formula is in the form:
 price = a * diameter + b
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
 ```
