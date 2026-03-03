@@ -14,7 +14,7 @@ This is an simple interactive **Streamlit** web app that uses **Linear Regressio
 
 ---
 
-## 📊 About the Model
+## About the Model
 
 The model is a **Simple Linear Regression**, trained using a dataset (`pizzas.csv`) with two variables:
 
